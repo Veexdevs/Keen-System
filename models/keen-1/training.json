@@ -1,0 +1,10 @@
+{
+  "dataset": "datasets/personality.jsonl",
+  "steps": 100,
+  "seed": 42,
+  "resume": null,
+  "validation": {
+    "loss": 2.525526463985443,
+    "perplexity": 12.497473001428148
+  }
+}
